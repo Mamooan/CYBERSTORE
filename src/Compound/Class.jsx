@@ -9,7 +9,7 @@ export default function Class() {
 
         git blame file name 
 
-        git reset --hard 
+        git reset --hard  id
       
     </div>
   )
