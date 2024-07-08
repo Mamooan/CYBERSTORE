@@ -4,6 +4,12 @@ export default function Class() {
   return (
     <div>
         git diff mean to what is add in you code
+
+        git show id : is show that what change in our code
+
+        git blame file name 
+
+        git reset --hard 
       
     </div>
   )
