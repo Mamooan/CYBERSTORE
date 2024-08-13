@@ -32,7 +32,6 @@ class Open extends React.Component{
                         <div></div>
                         <p>STORE LOCATOR</p>
                         <p>TRACK YOUR ORDER</p>
-                        <p>MY ACCOUNT</p>
                     </div>
                 </div>
                 <div className="h-32 w-full  flex">

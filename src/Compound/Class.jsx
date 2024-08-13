@@ -11,6 +11,12 @@ export default function Class() {
 
             git reset --hard  id
 
+            git slash
+
+            git Merge
+            
+            git Rebase
+
         </div>
     )
 }
